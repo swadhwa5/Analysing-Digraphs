@@ -1,0 +1,12 @@
+Name: Shreya Wadhwa
+JHED ID: swadhwa5
+In my program, there are 2 .cpp files and 1 .h file:
+digraph.cpp
+digraphAnalyzer.cpp
+digraph.h
+
+digraph.cpp : This file contain 4 functions which are used to implement all the jobs that the program requires to fulfill. Detailed explanantion of the functions is included in the file itself
+
+digraphAnalyzer.cpp : This file contains the main function which calls all the functions defined in digraph.cpp
+
+digraph.h : This header file contains all the function declarations
